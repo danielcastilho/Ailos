@@ -1,0 +1,24 @@
+services:
+  postgres:
+    image: postgres:15
+
+    container_name: postgres_dev
+
+    ports:
+      - "5432:5432"
+    env_file:
+      - postgres.env
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-scripts:/docker-entrypoint-initdb.d
+      - ./queries:/queries  # Monta o diretório de consultas no container
+    networks:
+      - question4-network
+    restart: no
+
+networks:
+  question4-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
