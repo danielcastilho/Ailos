@@ -1,0 +1,210 @@
+[
+    {
+      "competition": "UEFA Champions League",
+      "year": 2014,
+      "round": "GroupG",
+      "team1": "Sporting CP",
+      "team2": "Chelsea",
+      "team1goals": "0",
+      "team2goals": "1"
+    },
+    {
+      "competition": "UEFA Champions League",
+      "year": 2014,
+      "round": "GroupG",
+      "team1": "NK Maribor",
+      "team2": "Chelsea",
+      "team1goals": "1",
+      "team2goals": "1"
+    },
+    {
+      "competition": "UEFA Champions League",
+      "year": 2014,
+      "round": "GroupG",
+      "team1": "Schalke 04",
+      "team2": "Chelsea",
+      "team1goals": "0",
+      "team2goals": "5"
+    },
+    {
+      "competition": "UEFA Champions League",
+      "year": 2014,
+      "round": "R16",
+      "team1": "Paris Saint-Germain",
+      "team2": "Chelsea",
+      "team1goals": "1",
+      "team2goals": "1"
+    },
+    {
+      "competition": "English Premier League",
+      "year": 2014,
+      "round": "",
+      "team1": "Burnley",
+      "team2": "Chelsea",
+      "team1goals": "1",
+      "team2goals": "3"
+    },
+    {
+      "competition": "English Premier League",
+      "year": 2014,
+      "round": "",
+      "team1": "Everton",
+      "team2": "Chelsea",
+      "team1goals": "3",
+      "team2goals": "6"
+    },
+    {
+      "competition": "English Premier League",
+      "year": 2014,
+      "round": "",
+      "team1": "Manchester City",
+      "team2": "Chelsea",
+      "team1goals": "1",
+      "team2goals": "1"
+    },
+    {
+      "competition": "English Premier League",
+      "year": 2014,
+      "round": "",
+      "team1": "Crystal Palace",
+      "team2": "Chelsea",
+      "team1goals": "1",
+      "team2goals": "2"
+    },
+    {
+      "competition": "English Premier League",
+      "year": 2014,
+      "round": "",
+      "team1": "Manchester United",
+      "team2": "Chelsea",
+      "team1goals": "1",
+      "team2goals": "1"
+    },
+    {
+      "competition": "English Premier League",
+      "year": 2014,
+      "round": "",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "team1goals": "1",
+      "team2goals": "2"
+    },
+    {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Sunderland",
+        "team2": "Chelsea",
+        "team1goals": "0",
+        "team2goals": "0"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Newcastle United",
+        "team2": "Chelsea",
+        "team1goals": "2",
+        "team2goals": "1"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Stoke City",
+        "team2": "Chelsea",
+        "team1goals": "0",
+        "team2goals": "2"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Southampton",
+        "team2": "Chelsea",
+        "team1goals": "1",
+        "team2goals": "1"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Tottenham Hotspur",
+        "team2": "Chelsea",
+        "team1goals": "5",
+        "team2goals": "3"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Swansea City",
+        "team2": "Chelsea",
+        "team1goals": "0",
+        "team2goals": "5"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Aston Villa",
+        "team2": "Chelsea",
+        "team1goals": "1",
+        "team2goals": "2"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Leicester City",
+        "team2": "Chelsea",
+        "team1goals": "1",
+        "team2goals": "3"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "West Ham United",
+        "team2": "Chelsea",
+        "team1goals": "0",
+        "team2goals": "1"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Hull City",
+        "team2": "Chelsea",
+        "team1goals": "2",
+        "team2goals": "3"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Queens Park Rangers",
+        "team2": "Chelsea",
+        "team1goals": "0",
+        "team2goals": "1"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "Arsenal",
+        "team2": "Chelsea",
+        "team1goals": "0",
+        "team2goals": "0"
+      },
+      {
+        "competition": "English Premier League",
+        "year": 2014,
+        "round": "",
+        "team1": "West Bromwich Albion",
+        "team2": "Chelsea",
+        "team1goals": "3",
+        "team2goals": "0"
+      }
+   
+  ]

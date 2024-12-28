@@ -1,0 +1,3 @@
+@ano=2014
+@time=Chelsea
+GET https://jsonmock.hackerrank.com/api/football_matches?year={{ano}}&team2={{time}}&page=3
