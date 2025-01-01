@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao5", "src\Questao5.csproj", "{519FBFEC-4C74-4EB0-9148-760C42E5A4BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{DA776DA5-DBD1-4D0E-B0CD-1FFDD41B4779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao5.UnitTests", "tests\Questao5.UnitTests\Questao5.UnitTests.csproj", "{CEEBE369-1003-409B-9B57-F1C1ACA5B631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519FBFEC-4C74-4EB0-9148-760C42E5A4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519FBFEC-4C74-4EB0-9148-760C42E5A4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519FBFEC-4C74-4EB0-9148-760C42E5A4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519FBFEC-4C74-4EB0-9148-760C42E5A4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEBE369-1003-409B-9B57-F1C1ACA5B631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEBE369-1003-409B-9B57-F1C1ACA5B631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEBE369-1003-409B-9B57-F1C1ACA5B631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEBE369-1003-409B-9B57-F1C1ACA5B631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEEBE369-1003-409B-9B57-F1C1ACA5B631} = {DA776DA5-DBD1-4D0E-B0CD-1FFDD41B4779}
+	EndGlobalSection
+EndGlobal

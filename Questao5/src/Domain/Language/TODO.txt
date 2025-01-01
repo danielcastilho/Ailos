@@ -1,0 +1,1 @@
+Implementar multi linguagem na aplicação

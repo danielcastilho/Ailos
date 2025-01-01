@@ -1,0 +1,42 @@
+### Alguns testes pontuais para validação, para ajudar no desenvolvimento
+### Recomendo usar a extensão HTTPYAC no Visual Studio Code para rodar os testes
+### Variáveis globais para reutilização
+@baseUrl = http://localhost:5000
+
+### Consulta saldo de uma conta corrente
+GET {{baseUrl}}/api/contas-correntes/B6BAFC09-6967-ED11-A567-055DFA4A16C9/saldo
+Content-Type: application/json
+
+### Movimentação em conta corrente - Crédito
+POST {{baseUrl}}/api/contas-correntes/B6BAFC09-6967-ED11-A567-055DFA4A16C9/movimentos
+Content-Type: application/json
+
+{
+    "idempotencyKey": "73d8c02a-49d4-4841-a22b-989791596b6f",
+    "valor": 100.50,
+    "tipoMovimento": "C"
+}
+
+### Movimentação em conta corrente - Débito
+POST {{baseUrl}}/api/contas-correntes/B6BAFC09-6967-ED11-A567-055DFA4A16C9/movimentos
+Content-Type: application/json
+
+{
+    "idempotencyKey": "83e9d13b-50e5-4952-b33c-a12348596c7g",
+    "valor": 50.25,
+    "tipoMovimento": "D"
+}
+
+### Teste de conta inativa
+GET {{baseUrl}}/api/contas-correntes/F475F943-7067-ED11-A06B-7E5DFA4A16C9/saldo
+Content-Type: application/json
+
+### Teste de movimentação com valor negativo
+POST {{baseUrl}}/api/contas-correntes/B6BAFC09-6967-ED11-A567-055DFA4A16C9/movimentos
+Content-Type: application/json
+
+{
+    "idempotencyKey": "93f0e24c-61f6-5063-c44d-b23459697d8h",
+    "valor": -100.00,
+    "tipoMovimento": "C"
+}
